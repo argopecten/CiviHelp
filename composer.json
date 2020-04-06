@@ -9,6 +9,6 @@
     ],
     "type": "drupal-theme",
     "require": {
-         "drupal/bootstrap": "3.26",
+         "drupal/bootstrap": "3.26"
     }
 }
