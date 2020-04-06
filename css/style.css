@@ -2,3 +2,11 @@
  * If using a CSS pre-processor, tell it to overwrite this file. If not, place
  * your custom CSS modifications here.
  */
+
+/**
+ * change white labels of CiviVolinteer into gray
+ * use it if background color is white.
+ */
+.label {
+  color: #505050;
+}
