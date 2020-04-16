@@ -1,6 +1,6 @@
 {
-    "name": "argopecten/civihelp",
-    "description": "A Drupal Bootstrap v3 sub-theme for CiviCRM.",
+    "name": "argopecten/civiboot",
+    "description": "A sub-theme of Drupal Bootstrap v3 for CiviCRM.",
     "license": "GNU General Public License v3.0",
     "authors": [
         {

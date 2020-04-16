@@ -1,2 +1,5 @@
-# civihelp
- A CiviCRM theme based on Drupal Bootstrap v3.
+# CiviBoot
+
+A sub-theme of Drupal Bootstrap v3 for CiviCRM
+
+![CiviBoot](screenshot.png)

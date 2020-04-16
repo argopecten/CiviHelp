@@ -1,5 +1,5 @@
-name = 'CiviHelp theme'
-description = 'A Drupal Bootstrap 3 based sub-theme for CiviCRM.'
+name = 'CiviBoot theme'
+description = 'A sub-theme of Drupal Bootstrap v3 for CiviCRM.'
 core = 7.x
 base theme = bootstrap
 php = 5.3.0
