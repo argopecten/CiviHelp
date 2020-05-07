@@ -71,6 +71,6 @@ stylesheets[all][] = css/style.css
 ; so compiled source files can be used instead.
 ;settings[bootstrap_cdn_provider] = ''
 settings[bootstrap_cdn_provider]       = 'custom'
-settings[bootstrap_cdn_custom_css]     = '/sites/all/themes/contrib/civihelp/css/bootstrap.css'
-settings[bootstrap_cdn_custom_css_min] = '/sites/all/themes/contrib/civihelp/css/bootstrap.min.css'
+settings[bootstrap_cdn_custom_css]     = '/sites/all/themes/contrib/civiboot/css/bootstrap.css'
+settings[bootstrap_cdn_custom_css_min] = '/sites/all/themes/contrib/civiboot/css/bootstrap.min.css'
 settings[bootstrap_fluid_container]    = 1
