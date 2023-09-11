@@ -1,6 +1,6 @@
 {
     "name": "argopecten/civiboot",
-    "description": "A sub-theme of Drupal Bootstrap v3 for CiviCRM.",
+    "description": "A sub-theme of Drupal Bootstrap v5.",
     "license": "GNU General Public License v3.0",
     "authors": [
         {
@@ -9,6 +9,6 @@
     ],
     "type": "drupal-theme",
     "require": {
-         "drupal/bootstrap": "3.26"
+         "drupal/bootstrap5": "^3.0"
     }
 }
