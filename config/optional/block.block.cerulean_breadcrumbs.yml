@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_breadcrumbs
-theme: default
+    - cerulean
+id: cerulean_breadcrumbs
+theme: cerulean
 region: breadcrumb
 weight: 0
 provider: null

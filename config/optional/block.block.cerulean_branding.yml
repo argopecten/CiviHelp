@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_branding
-theme: default
+    - cerulean
+id: cerulean_branding
+theme: cerulean
 region: nav_branding
 weight: -6
 provider: null

@@ -1,5 +1,5 @@
-// Bootswatch default theme
-// https://bootswatch.com/default/
+// Bootswatch theme Cerulean
+// https://bootswatch.com/cerulean/
 
 // Sub theme styling.
 @import 'variables_drupal';
@@ -8,5 +8,11 @@
 // @see https://getbootstrap.com/docs/5.2/customize/sass/#variable-defaults.
 @import 'variables_bootstrap';
 
+// subtheme variables
+@import '../../../../themes/contrib/bootstrap5/dist/bootswatch/dist/cerulean/variables';
+
 // Include bootstrap.
 @import '../../../../themes/contrib/bootstrap5/scss/style';
+
+// subtheme styles
+@import '../../../../themes/contrib/bootstrap5/dist/bootswatch/dist/cerulean/bootswatch';

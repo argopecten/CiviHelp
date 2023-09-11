@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - default
-id: default_page_title
-theme: default
+    - cerulean
+id: cerulean_page_title
+theme: cerulean
 region: content
 weight: -6
 provider: null

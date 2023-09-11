@@ -6,9 +6,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_main_navigation
-theme: default
+    - cerulean
+id: cerulean_main_navigation
+theme: cerulean
 region: nav_main
 weight: 0
 provider: null

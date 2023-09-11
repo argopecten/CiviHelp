@@ -6,9 +6,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_account_menu
-theme: default
+    - cerulean
+id: cerulean_account_menu
+theme: cerulean
 region: sidebar_second
 weight: -7
 provider: null

@@ -6,9 +6,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_footer
-theme: default
+    - cerulean
+id: cerulean_footer
+theme: cerulean
 region: footer
 weight: -6
 provider: null

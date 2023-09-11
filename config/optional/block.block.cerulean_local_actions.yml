@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - default
-id: default_local_actions
-theme: default
+    - cerulean
+id: cerulean_local_actions
+theme: cerulean
 region: content
 weight: -2
 provider: null

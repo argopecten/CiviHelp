@@ -4,16 +4,16 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_content
-theme: default
+    - cerulean
+id: cerulean_messages
+theme: cerulean
 region: content
-weight: -1
+weight: -7
 provider: null
-plugin: system_main_block
+plugin: system_messages_block
 settings:
-  id: system_main_block
-  label: 'Main page content'
+  id: system_messages_block
+  label: Messages
   provider: system
   label_display: '0'
 visibility: {  }

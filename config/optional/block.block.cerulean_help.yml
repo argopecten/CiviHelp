@@ -4,9 +4,9 @@ dependencies:
   module:
     - help
   theme:
-    - default
-id: default_help
-theme: default
+    - cerulean
+id: cerulean_help
+theme: cerulean
 region: content
 weight: -3
 provider: null
