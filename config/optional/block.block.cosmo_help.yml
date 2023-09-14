@@ -4,9 +4,9 @@ dependencies:
   module:
     - help
   theme:
-    - default
-id: default_help
-theme: default
+    - cosmo
+id: cosmo_help
+theme: cosmo
 region: content
 weight: -3
 provider: null

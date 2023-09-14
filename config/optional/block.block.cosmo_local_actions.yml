@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - default
-id: default_local_actions
-theme: default
+    - cosmo
+id: cosmo_local_actions
+theme: cosmo
 region: content
 weight: -2
 provider: null

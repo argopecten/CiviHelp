@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_breadcrumbs
-theme: default
+    - cosmo
+id: cosmo_breadcrumbs
+theme: cosmo
 region: breadcrumb
 weight: 0
 provider: null

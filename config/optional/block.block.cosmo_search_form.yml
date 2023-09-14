@@ -4,9 +4,9 @@ dependencies:
   module:
     - search
   theme:
-    - default
-id: default_search_form
-theme: default
+    - cosmo
+id: cosmo_search_form
+theme: cosmo
 region: sidebar_second
 weight: 0
 provider: null

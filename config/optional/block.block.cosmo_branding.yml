@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_branding
-theme: default
+    - cosmo
+id: cosmo_branding
+theme: cosmo
 region: nav_branding
 weight: -6
 provider: null

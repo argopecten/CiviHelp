@@ -1,89 +1,89 @@
-default.screen.xs-max:
+cosmo.screen.xs-max:
   label: xs-max
   mediaQuery: '(max-width: 575.98px)'
   weight: 1
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.sm-min:
+cosmo.screen.sm-min:
   label: sm-min
   mediaQuery: '(min-width: 576px)'
   weight: 2
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.sm-max:
+cosmo.screen.sm-max:
   label: sm-max
   mediaQuery: '(max-width: 767.98px)'
   weight: 3
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.md-min:
+cosmo.screen.md-min:
   label: md-min
   mediaQuery: '(min-width: 768px)'
   weight: 4
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.md-max:
+cosmo.screen.md-max:
   label: md-max
   mediaQuery: '(max-width: 991.98px)'
   weight: 5
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.lg-min:
+cosmo.screen.lg-min:
   label: lg-min
   mediaQuery: '(min-width: 992px)'
   weight: 6
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.lg-max:
+cosmo.screen.lg-max:
   label: lg-max
   mediaQuery: '(max-width: 1199.98px)'
   weight: 7
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.xl-min:
+cosmo.screen.xl-min:
   label: xl-min
   mediaQuery: '(min-width: 1200px)'
   weight: 8
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.xl-max:
+cosmo.screen.xl-max:
   label: xl-max
   mediaQuery: '(max-width: 1399.98px)'
   weight: 9
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x
 
-default.screen.xxl-min:
+cosmo.screen.xxl-min:
   label: xxl-min
   mediaQuery: '(min-width: 1400px)'
   weight: 10
-  group: default.screen
+  group: cosmo.screen
   multipliers:
     - 1x
     - 2x

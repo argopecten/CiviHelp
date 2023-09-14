@@ -1,10 +1,10 @@
-name: 'Bootswatch Default'
+name: 'Bootswatch Cosmo'
 type: theme
-description: 'Bootswatch Default subtheme based on Bootstrap 5 theme.'
+description: 'Bootswatch Cosmo subtheme based on Bootstrap 5 theme.'
 core_version_requirement: '^9.4 || ^10'
 'base theme': bootstrap5
 libraries:
-  - default/global-styling
+  - cosmo/global-styling
 ckeditor_stylesheets:
   - css/style.css
 ckeditor5-stylesheets:

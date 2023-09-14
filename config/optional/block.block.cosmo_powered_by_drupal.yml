@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - default
-id: default_powered_by_drupal
-theme: default
+    - cosmo
+id: cosmo_powered_by_drupal
+theme: cosmo
 region: sidebar_second
 weight: 0
 provider: null
