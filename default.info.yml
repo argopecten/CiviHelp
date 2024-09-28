@@ -1,7 +1,7 @@
 name: 'Bootswatch Default'
 type: theme
 description: 'Bootswatch Default subtheme based on Bootstrap 5 theme.'
-core_version_requirement: '^9.4 || ^10'
+core_version_requirement: '^10 || ^11'
 'base theme': bootstrap5
 libraries:
   - default/global-styling

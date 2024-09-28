@@ -9,6 +9,6 @@
     ],
     "type": "drupal-custom-theme",
     "require": {
-         "drupal/bootstrap5": "^3.0"
+         "drupal/bootstrap5": "^4.0"
     }
 }
