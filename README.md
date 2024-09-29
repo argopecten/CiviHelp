@@ -1,6 +1,6 @@
-# Bootswatch Default theme
+# Subthemes of Bootswatch for Bootstrap 5
 
-[Bootstrap 5](https://www.drupal.org/project/bootstrap5) subtheme.
+[Bootstrap 5](https://www.drupal.org/project/bootstrap5) subthemes.
 
 ## Development.
 

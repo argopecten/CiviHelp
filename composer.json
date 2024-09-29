@@ -1,6 +1,6 @@
 {
     "name": "argopecten/civiboot",
-    "description": "A sub-theme of Drupal Bootstrap v5.",
+    "description": "Sub-theme of Bootswarch for Drupal Bootstrap v5.",
     "license": "GNU General Public License v3.0",
     "authors": [
         {
@@ -8,6 +8,12 @@
         }
     ],
     "type": "drupal-custom-theme",
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    },
     "require": {
          "drupal/bootstrap5": "^4.0"
     }
