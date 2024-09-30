@@ -1,0 +1,89 @@
+cosmo.screen.xs-max:
+  label: xs-max
+  mediaQuery: '(max-width: 575.98px)'
+  weight: 1
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.sm-min:
+  label: sm-min
+  mediaQuery: '(min-width: 576px)'
+  weight: 2
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.sm-max:
+  label: sm-max
+  mediaQuery: '(max-width: 767.98px)'
+  weight: 3
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.md-min:
+  label: md-min
+  mediaQuery: '(min-width: 768px)'
+  weight: 4
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.md-max:
+  label: md-max
+  mediaQuery: '(max-width: 991.98px)'
+  weight: 5
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.lg-min:
+  label: lg-min
+  mediaQuery: '(min-width: 992px)'
+  weight: 6
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.lg-max:
+  label: lg-max
+  mediaQuery: '(max-width: 1199.98px)'
+  weight: 7
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.xl-min:
+  label: xl-min
+  mediaQuery: '(min-width: 1200px)'
+  weight: 8
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.xl-max:
+  label: xl-max
+  mediaQuery: '(max-width: 1399.98px)'
+  weight: 9
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
+
+cosmo.screen.xxl-min:
+  label: xxl-min
+  mediaQuery: '(min-width: 1400px)'
+  weight: 10
+  group: cosmo.screen
+  multipliers:
+    - 1x
+    - 2x
